@@ -6,7 +6,7 @@ it was for iti summer training (PHP laravel )
 
 simple article project it makes user to create, read, update, delete (crud) articles
 
-# Project Require 
+# Project Requirement
 
 - Users can log in with their email and password. 
 - Users can register with first name, last name, email, address, date of birth, and password. 
