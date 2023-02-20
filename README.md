@@ -1,8 +1,8 @@
 # ITI summer training
 
     
-Hi! it's laravel project 
-it was for iti summer training (PHP laravel ) 
+it's laravel project 
+for iti summer training (PHP laravel ) 
 
 simple article project it makes user to create, read, update, delete (crud) articles
 
